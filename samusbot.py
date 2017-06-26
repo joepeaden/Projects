@@ -119,7 +119,7 @@ while (True):
                 forward()
 
     # if ball is out of camera view    
-    if (area<minArea ):
+    if (area<minArea ): 
         search()
 
     # Shows two video windows    
