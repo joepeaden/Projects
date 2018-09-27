@@ -2,6 +2,8 @@
 # The code is for a Raspberry Pi robot, with which we use OpenCV, a motorcontroller, and a servo in order to
 # find a ball of a certain color, approach it, and retrieve it.
 
+
+#
 # Motor serial information:
 # MOTOR 1: 1 reverse, 64 stop, 127 forward
 # MOTOR 2: 128 reverse, 192 stop, 255 forward
